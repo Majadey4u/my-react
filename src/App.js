@@ -46,7 +46,7 @@ function App() {
             <div className="col">
               <Card className="my-card bg-info">
                 <Card.Body>
-                  <Card.Title>Card 1</Card.Title>
+                  <Card.Title>Maryjane</Card.Title>
                   <Card.Text>This is the first card.</Card.Text>
                 </Card.Body>
               </Card>
@@ -54,7 +54,7 @@ function App() {
             <div className="col">
               <Card className="my-card bg-warning">
                 <Card.Body>
-                  <Card.Title>Card 2</Card.Title>
+                  <Card.Title>Onyinyechi</Card.Title>
                   <Card.Text>This is the second card.</Card.Text>
                 </Card.Body>
               </Card>
@@ -62,7 +62,7 @@ function App() {
             <div className="col">
               <Card className="my-card bg-danger">
                 <Card.Body>
-                  <Card.Title>Card 3</Card.Title>
+                  <Card.Title>Ogbuju</Card.Title>
                   <Card.Text>This is the third card.</Card.Text>
                 </Card.Body>
               </Card>
